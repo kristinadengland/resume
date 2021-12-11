@@ -10,7 +10,7 @@
 April 2019-Present
 - Conduct manual accessibility testing of products during procurement and project implementation. 
 - Educate internal developers, designers, and content owners on accessible code, design, and content.
-- Implemented and manage the office's educational website, Inclusive by Design: A Disability Inclusion Toolkit.
+- Implemented and manage the office's educational website, [Inclusive by Design: A Disability Inclusion Toolkit](https://www.umassp.edu/inclusive-by-design).
 - Facilating the development of an in house design system to standardize styles, components, and patterns.
 - Participate in the DEIA Collaborative to ensure accessibility is a key goal of all our Diversity and Inclusion initiatives. 
 
