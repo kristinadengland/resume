@@ -12,7 +12,7 @@ April 2019-Present
 - Educate internal developers, designers, and content owners on accessible code, design, and content.
 - Implemented and manage the office's educational website, [Inclusive by Design: A Disability Inclusion Toolkit](https://www.umassp.edu/inclusive-by-design).
 - Facilating the development of an in house design system to standardize styles, components, and patterns.
-- Participate in the DEIA Collaborative to ensure accessibility is a key goal of all our Diversity and Inclusion initiatives. 
+- Participate in the Diversity, Equity, Inclusion, and Accessibility (DEIA) Collaborative to ensure accessibility is a key goal of all our Diversity and Inclusion initiatives. 
 
 ### Web Application Specialist and IT Accessibility Coordinator at University of Massachusetts President's Office
 June 2014-April 2019
