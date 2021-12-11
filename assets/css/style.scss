@@ -5,4 +5,5 @@
 #project_tagline {display: none;}
 #header_wrap {background: #0047ab;}
 a:link {text-decoration: underline;}
-a:focus, a:hover {outline: 3px solid orange;text-decoration: underline;}
+a:focus {outline: 3px solid orange;text-decoration: underline;}
+a:hover {font-weight: bold;text-decoration: underline;}
