@@ -22,6 +22,6 @@ June 2014-April 2019
 - Managed CMS configurations on the front end (Drupal views, content types, etc.).
 
 ## Volunteer Work
-Comapnies Taskforce at Teach Access
+### Comapnies Taskforce at Teach Access
 2019-Present
 Volunteer on the companies taskforce with a focus on the Accessibility Skills Hiring Toolkit. Faciliated the incorporation of interview questions into the toolkit and converted the original PDF version of the toolkit into GitHub pages to ensure the content was accessible, translatable, and maintainable. 
