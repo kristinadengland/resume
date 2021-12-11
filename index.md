@@ -7,3 +7,16 @@
 
 ## Experience
 ### Senior Digital Experience and Accessibility Specialist at University of Massachusetts President's Office
+April 2019-Present
+- Conduct manual accessibility testing of products during procurement and project implementation. 
+- Educate internal developers, designers, and content owners on accessible code, design, and content.
+- Implemented and manage the office's educational website, Inclusive by Design: A Disability Inclusion Toolkit.
+- Facilating the development of an in house design system to standardize styles, components, and patterns.
+- Participate in the DEIA Collaborative to ensure accessibility is a key goal of all our Diversity and Inclusion initiatives. 
+
+### Web Application Specialist and IT Accessibility Coordinator at University of Massachusetts President's Office
+June 2014-April 2019
+- Coordinated accessibility testing in alignment with the latest WCAG standards.
+- Developed the accessible procurement process for the office in partnership with the General Counsel.
+- Modernized paper-based processes into mobile responsive and accessible web-based solutions.
+- Managed CMS configurations on the front end (Drupal views, content types, etc.).
