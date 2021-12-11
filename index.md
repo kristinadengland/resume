@@ -18,6 +18,7 @@ April 2019-Present
 June 2014-April 2019
 - Coordinated accessibility testing in alignment with the latest WCAG standards.
 - Developed the accessible procurement process for the office in partnership with the General Counsel.
+- Developed accessibility how-to articles for internal knowledge base.
 - Modernized paper-based processes into mobile responsive and accessible web-based solutions.
 - Managed CMS configurations on the front end (Drupal views, content types, etc.).
 
