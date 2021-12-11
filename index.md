@@ -27,4 +27,4 @@ June 2014-April 2019
 2019-Present
 - Volunteer on the companies taskforce with a focus on the Accessibility Skills Hiring Toolkit. 
 - Faciliated the incorporation of interview questions into the toolkit.
-- Converted the original PDF version of the toolkit into GitHub pages to ensure the content was accessible, translatable, and maintainable. 
+- Converted the original PDF version of the toolkit into [GitHub pages](https://teachaccess.github.io/accessibility-skills-hiring-toolkit/) to ensure the content was accessible, translatable, and maintainable. 
