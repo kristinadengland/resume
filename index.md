@@ -28,3 +28,8 @@ June 2014-April 2019
 - Volunteer on the companies taskforce with a focus on the Accessibility Skills Hiring Toolkit. 
 - Faciliated the incorporation of interview questions into the toolkit.
 - Converted the original PDF version of the toolkit into [GitHub pages](https://teachaccess.github.io/accessibility-skills-hiring-toolkit/) to ensure the content was accessible, translatable, and maintainable. 
+
+## Academic Education
+- Project Management Certificate, University of Massachusetts Lowell
+- Masters Degree in English, University of Massachusetts Boston
+- Bachelors Degree in English, Assumption College
