@@ -2,7 +2,7 @@ Email: [kristina.england@gmail.com](mailto:kristina.england@gmail.com)
 
 Over 5 years experience as an accessibility specialist with a focus on disability inclusion education and partnering with vendors to make their product experience accessible and usable.
 
-## Competencie and Strengths
+## Strengths
 - Extensive knowledge of the Web Content Accessibility Guidelines (WCAG) as baseline standards (not the end goal) and the Inclusive Design Principles. 
 - Experience with a wide array of assistive technology and other types of manual reviews, including screen readers (NVDA and JAWs), speech recognition, display modes (high contrast mode, dark mode, reader mode, and reduced motion mode), color contrast analyzers, zoom/magnification, and epilepsy and vestibular triggers.
 - Strong focus on education and awareness of both internal employees and external vendors on disability inclusion and understanding the who before the how. 
