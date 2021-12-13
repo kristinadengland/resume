@@ -15,7 +15,7 @@ April 2019-Present
 - Conduct manual accessibility testing of products during procurement and project implementation. 
 - Educate internal developers, designers, and content owners on accessible code, design, and content.
 - Implemented and manage the office's educational website, [Inclusive by Design: A Disability Inclusion Toolkit](https://www.umassp.edu/inclusive-by-design).
-- Facilating the development of an in house design system to standardize styles, components, and patterns.
+- Facilitating the development of an in house design system to standardize styles, components, and patterns.
 - Participate in the Diversity, Equity, Inclusion, and Accessibility (DEIA) Collaborative to ensure accessibility is a key goal of all our Diversity and Inclusion initiatives. 
 
 ### Web Application Specialist and IT Accessibility Coordinator at University of Massachusetts President's Office
@@ -30,8 +30,8 @@ June 2014-April 2019
 ## Volunteer Work
 ### Companies Taskforce at Teach Access
 2019-Present
-- Volunteer on the companies taskforce with a focus on the Accessibility Skills Hiring Toolkit. 
-- Faciliated the incorporation of interview questions into the toolkit.
+- Volunteer on the Companies Taskforce with a focus on the Accessibility Skills Hiring Toolkit. 
+- Facilitated the incorporation of interview questions into the toolkit.
 - Converted the original PDF version of the toolkit into [GitHub pages](https://teachaccess.github.io/accessibility-skills-hiring-toolkit/) to ensure the content was accessible, translatable, and maintainable. 
 
 ## Academic Education
