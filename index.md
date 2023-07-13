@@ -5,7 +5,7 @@ Over 5 years experience in the digital content and design field with a focus on 
 ## Strengths
 
 ### Experience in people management and mentorship 
-- Have non-officially managed teams, including managing the current DEIA Communications team and previously managing the web team's workload and business partner communications when we were between managers.
+- Have unofficially managed teams, including managing the current DEIA Communications team and previously managing the web team's workload and business partner communications when we were between managers.
 - Extremely organized in managing timelines and tasks with teams.
 - Mentor others on skill development and process knowledge across various areas. 
 
