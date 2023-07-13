@@ -16,7 +16,7 @@ Over 5 years experience as an digital experience and accessibility specialist wi
 ### Take a growth-mindset focus
 - Step in whenever there is a skill gap in the department and learn that skill. Previously had no experience in accessibility, web development or design, graphic design, or diversity and equity - volunteered to learn these skills having previously only had a communications and training development background. 
 - Developing my knowledge of overall user experience principles by completeting courses through Interaction Design Foundation.
-- Continue to keep up on legal changes within the accessibility industry, whether updates to laws or the current lawsuit landscape. Report any important updates to the General Counsel. 
+- Continue to develop my knowledge of accessibility as well as disability identity, culture, and rights. 
 
 ## Experience
 ### Senior Digital Experience and Accessibility Specialist at University of Massachusetts President's Office
