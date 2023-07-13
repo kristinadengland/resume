@@ -11,7 +11,7 @@ Over 5 years experience in the digital content and design field with a focus on 
 
 ### Build partnerships with peers in related industries
 - Developed a space for accessibility specialists in higher education that includes Indiana Univeristy, Stanford, and Yale.
-- Co-facilitated the implementation of an HCM Accessibility Focus Group with Indiana University where multiple universities and states now meeting quarterly with PeopleSoft developers to address critical accessibility issues.
+- Co-facilitated the implementation of an HCM Accessibility Focus Group with Indiana University where multiple universities and states now meet quarterly with PeopleSoft developers to address critical accessibility issues.
 - Work with other DEIA volunteers to build out our DEIA connections within UMass by engaging with professors and DEIA professionals across the campuses. 
 - Connected with people across the Diversity, Equity, Inclusion, and Accessibiltiy space on LinkedIn. 
 
