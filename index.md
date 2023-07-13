@@ -4,7 +4,7 @@ Over 5 years experience in the digital content and design field with a focus on 
 
 ## Strengths
 
-### Experience in stewardship and mentorship
+### Experience in people management and mentorship 
 - Have non-officially managed teams, including managing the current DEIA Communications team and previously managing the web team's workload and business partner communications when we were between managers.
 - Extremely organized in managing timelines and tasks with teams.
 - Mentor others on skill development and process knowledge across various areas. 
@@ -18,7 +18,8 @@ Over 5 years experience in the digital content and design field with a focus on 
 ### Take a growth-mindset focus
 - Step in whenever there is a skill gap in the department and learn that skill. Previously had no experience in accessibility, web development or design, graphic design, or diversity and equity - volunteered to learn these skills having previously only had a communications and training development background. 
 - Developing my knowledge of overall user experience principles by completeting courses through Interaction Design Foundation.
-- Continue to develop my knowledge of accessibility as well as disability identity, culture, and rights. 
+- Continue to develop my knowledge of accessibility as well as disability identity, culture, and rights.
+- Take time to educate vendors and higher ed peers on accessibility, and to provide them with the resources and support system needed to grow their skills. Co-trained the first digital accessibility specialist at Cornell following their accessibility lawsuit. 
 
 ## Experience
 ### Senior Digital Experience and Accessibility Specialist at University of Massachusetts President's Office
