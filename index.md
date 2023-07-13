@@ -10,14 +10,14 @@ Over 5 years experience in the digital content and design field with a focus on 
 - Mentor others on skill development and process knowledge across various areas. 
 
 ### Build partnerships with peers in related industries
-- Developed a space for accessibility specialists in higher education that includes Indiana Univeristy, Stanford, and Yale.
+- Developed a space for accessibility specialists in higher education that includes Indiana University, Stanford, and Yale.
 - Co-facilitated the implementation of an HCM Accessibility Focus Group with Indiana University where multiple universities and states now meet quarterly with PeopleSoft developers to address critical accessibility issues.
 - Work with other DEIA volunteers to build out our DEIA connections within UMass by engaging with professors and DEIA professionals across the campuses. 
-- Connected with people across the Diversity, Equity, Inclusion, and Accessibiltiy space on LinkedIn. 
+- Connected with people across the Diversity, Equity, Inclusion, and Accessibility space on LinkedIn. 
 
 ### Take a growth-mindset focus
 - Step in whenever there is a skill gap in the department and learn that skill. Previously had no experience in accessibility, web development or design, graphic design, or diversity and equity - volunteered to learn these skills having previously only had a communications and training development background. 
-- Developing my knowledge of overall user experience principles by completeting courses through Interaction Design Foundation.
+- Developing my knowledge of overall user experience principles by completing courses through Interaction Design Foundation.
 - Continue to develop my knowledge of accessibility as well as disability identity, culture, and rights.
 - Take time to educate vendors and higher ed peers on accessibility, and to provide them with the resources and support system needed to grow their skills. Co-trained the first digital accessibility specialist at Cornell following their accessibility lawsuit.
 
@@ -57,7 +57,7 @@ June 2014-April 2019
 ## Product Knowledge
 - Accessibility Testing: Color Contrast Analyzers, Display Modes (Dark Mode, High Contrast Mode, Reduced Motion Mode, Reader Mode, etc.), NVDA Screen Reader, Read Aloud, Voice Control, VoiceOver
 - Email Marketing: Mailchimp
-- Grahpic Design: Adobe Illustrator, Adobe Photoshop 
+- Graphic Design: Adobe Illustrator, Adobe Photoshop 
 - Operational and Project Management: Salesforce, Jira
 - Web Content Management Systems: Drupal, GitHub, Salesforce Community, WordPress  
 
