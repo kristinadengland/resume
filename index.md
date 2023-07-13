@@ -1,6 +1,6 @@
 Email: [kristina.england@gmail.com](mailto:kristina.england@gmail.com)
 
-Over 5 years experience as an digital experience and accessibility specialist with a focus on user experience design, disability inclusion education, and partnering with vendors to make their product experience accessible and usable.
+Over 5 years experience in the digital content and design field with a focus on user experience design and disability inclusion education.
 
 ## Strengths
 
@@ -51,7 +51,13 @@ June 2014-April 2019
 2022
 - Provided feedback on their job description.
 - Provided them with recommended interview questions. 
-- Helped them review resumes as they came in to determine overall qualifications of candidates. 
+- Helped them review resumes as they came in to determine overall qualifications of candidates.
+
+## Product Knowledge
+- Grahpic Design: Adobe Illustrator, Adobe Photoshop 
+- Web Content Management Systems: Drupal, GitHub, Salesforce Community, WordPress  
+- Operational and Project Management: Salesforce, Jira
+- Accessibility Testing: Color Contrast Analyzers, Display Modes (Dark Mode, High Contrast Mode, Reduced Motion Mode, Reader Mode, etc.), NVDA Screen Reader, Read Aloud, Voice Control, VoiceOver
 
 ## Academic Education
 - Project Management Certificate, University of Massachusetts Lowell
