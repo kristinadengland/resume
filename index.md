@@ -13,6 +13,7 @@ Over 5 years experience as an digital experience and accessibility specialist wi
 - Connected with people across the Diversity, Equity, Inclusion, and Accessibiltiy space on LinkedIn to 
 
 ### Take a growth-mindset focus
+- Developing my knowledge of overall user experience principles by completeting courses through Interaction Design Foundation.
 - Continue to keep up on legal changes within the accessibility industry, whether updates to laws or the current lawsuit landscape. Report any important updates to the General Counsel. 
 
 ## Experience
