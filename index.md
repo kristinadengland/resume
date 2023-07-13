@@ -1,22 +1,30 @@
 Email: [kristina.england@gmail.com](mailto:kristina.england@gmail.com)
 
-Over 5 years experience as an accessibility specialist with a focus on disability inclusion education and partnering with vendors to make their product experience accessible and usable.
+Over 5 years experience as an digital experience and accessibility specialist with a focus on user experience design, disability inclusion education, and partnering with vendors to make their product experience accessible and usable.
 
 ## Strengths
-- Extensive knowledge of the Web Content Accessibility Guidelines (WCAG) as baseline standards (not the end goal) and the Inclusive Design Principles. 
-- Experience with a wide array of assistive technology and other types of manual reviews, including screen readers (NVDA and JAWs), speech recognition, display modes (high contrast mode, dark mode, reader mode, and reduced motion mode), color contrast analyzers, zoom/magnification, and epilepsy and vestibular triggers.
-- Strong focus on disability inclusion education and understanding the who before the how. 
-- Volunteer within the industry to ensure broader reach to companies and other higher ed institutions through Teach Access. 
-- Work with not-for-profits after hours to remove accessibility overlays from their sites.
+
+### Take a mentorship appraoch to leadership
+- Extremely organized in managing timelines and tasks with teams.
+- Mentor others on skill development and process knowledge.
+
+### Build partnerships with peers in related industries
+- Developed a space for accessibility specialists in higher education to share product test findings.
+- Connected with people across the Diversity, Equity, Inclusion, and Accessibiltiy space on LinkedIn to 
+
+### Take a growth-mindset focus
+- Continue to keep up on legal changes within the accessibility industry, whether updates to laws or the current lawsuit landscape. Report any important updates to the General Counsel. 
 
 ## Experience
 ### Senior Digital Experience and Accessibility Specialist at University of Massachusetts President's Office
 April 2019-Present
-- Conduct manual accessibility testing of products during procurement and project implementation. 
-- Educate internal developers, designers, and content owners on accessible code, design, and content.
-- Implemented and manage the office's educational website, [Inclusive by Design: A Disability Inclusion Toolkit](https://www.umassp.edu/inclusive-by-design).
-- Facilitating the development of an in house design system to standardize styles, components, and patterns.
-- Participate in the Diversity, Equity, Inclusion, and Accessibility (DEIA) Collaborative to ensure accessibility is a key goal of all our Diversity and Inclusion initiatives. 
+- Manage the DEIA Communications working group and the overall work stream for the team. 
+- Manage the accessibility testing process for the President's Office.
+- Partner with procured vendors to fix the accessibility of their products.
+- Mentor other teams on how to design and develop customer communications. 
+- Mentor internal developers, designers, and content owners on accessible code, design, and content.
+- Develop graphics and illustratons for President's Office websites and communications. 
+- Implemented and manage the Inclusive by Design website, which Apple and the American Federation of the Blind (AFB) have used as a resource for employees.  
 
 ### Web Application Specialist and IT Accessibility Coordinator at University of Massachusetts President's Office
 June 2014-April 2019
