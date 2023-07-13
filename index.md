@@ -16,10 +16,10 @@ Over 5 years experience in the digital content and design field with a focus on 
 - Connected with people across the Diversity, Equity, Inclusion, and Accessibility space on LinkedIn. 
 
 ### Take a growth-mindset focus
-- Step in whenever there is a skill gap in the department and learn that skill. Previously had no experience in accessibility, web development or design, graphic design, or diversity and equity - volunteered to learn these skills having previously only had a communications and training development background. 
+- Step in whenever there is a skill gap in the department and learn that skill. Previously had no experience in accessibility, web development or design, graphic design, or diversity and equity. 
 - Developing my knowledge of overall user experience principles by completing courses through Interaction Design Foundation.
 - Continue to develop my knowledge of accessibility as well as disability identity, culture, and rights.
-- Take time to educate vendors and higher ed peers on accessibility, and to provide them with the resources and support system needed to grow their skills. Co-trained the first digital accessibility specialist at Cornell following their accessibility lawsuit.
+- Take time to educate vendors and higher ed peers on accessibility, and to provide them with the resources and support system needed to grow their skills. 
 
 ## Experience
 ### Senior Digital Experience and Accessibility Specialist at University of Massachusetts President's Office
@@ -30,7 +30,7 @@ April 2019-Present
 - Mentor other teams on how to design and develop customer communications. 
 - Mentor internal developers, designers, and content owners on accessible code, design, and content.
 - Develop graphics and illustrations for President's Office websites and communications. 
-- Implemented and manage the[ Inclusive by Design website](https://www.umassp.edu/inclusive-by-design), which Apple and the American Federation of the Blind (AFB) have used as a resource for employees.  
+- Implemented and manage the[ Inclusive by Design website](https://www.umassp.edu/inclusive-by-design).  
 
 ### Web Application Specialist and IT Accessibility Coordinator at University of Massachusetts President's Office
 June 2014-April 2019
