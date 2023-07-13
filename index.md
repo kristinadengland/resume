@@ -4,15 +4,17 @@ Over 5 years experience as an digital experience and accessibility specialist wi
 
 ## Strengths
 
-### Take a mentorship appraoch to leadership
+### Experience in stewardship and mentorship
+- Have non-officially managed teams, including managing the current DEIA Communications team and previously managing the web team's workload and business partner communications when we were between managers.
 - Extremely organized in managing timelines and tasks with teams.
-- Mentor others on skill development and process knowledge.
+- Mentor others on skill development and process knowledge across various areas. 
 
 ### Build partnerships with peers in related industries
 - Developed a space for accessibility specialists in higher education to share product test findings.
 - Connected with people across the Diversity, Equity, Inclusion, and Accessibiltiy space on LinkedIn to 
 
 ### Take a growth-mindset focus
+- Step in whenever there is a skill gap in the department and learn that skill. Previously had no experience in accessibility, web development or design, graphic design, or diversity and equity - volunteered to learn these skills having previously only had a communications and training development background. 
 - Developing my knowledge of overall user experience principles by completeting courses through Interaction Design Foundation.
 - Continue to keep up on legal changes within the accessibility industry, whether updates to laws or the current lawsuit landscape. Report any important updates to the General Counsel. 
 
