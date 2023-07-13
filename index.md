@@ -29,7 +29,7 @@ April 2019-Present
 - Partner with procured vendors to fix the accessibility of their products.
 - Mentor other teams on how to design and develop customer communications. 
 - Mentor internal developers, designers, and content owners on accessible code, design, and content.
-- Develop graphics and illustratons for President's Office websites and communications. 
+- Develop graphics and illustrations for President's Office websites and communications. 
 - Implemented and manage the Inclusive by Design website, which Apple and the American Federation of the Blind (AFB) have used as a resource for employees.  
 
 ### Web Application Specialist and IT Accessibility Coordinator at University of Massachusetts President's Office
@@ -55,10 +55,11 @@ June 2014-April 2019
 - Helped them review resumes as they came in to determine overall qualifications of candidates.
 
 ## Product Knowledge
-- Grahpic Design: Adobe Illustrator, Adobe Photoshop 
-- Web Content Management Systems: Drupal, GitHub, Salesforce Community, WordPress  
-- Operational and Project Management: Salesforce, Jira
 - Accessibility Testing: Color Contrast Analyzers, Display Modes (Dark Mode, High Contrast Mode, Reduced Motion Mode, Reader Mode, etc.), NVDA Screen Reader, Read Aloud, Voice Control, VoiceOver
+- Email Marketing: Mailchimp
+- Grahpic Design: Adobe Illustrator, Adobe Photoshop 
+- Operational and Project Management: Salesforce, Jira
+- Web Content Management Systems: Drupal, GitHub, Salesforce Community, WordPress  
 
 ## Academic Education
 - Project Management Certificate, University of Massachusetts Lowell
