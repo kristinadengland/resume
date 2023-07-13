@@ -11,7 +11,8 @@ Over 5 years experience as an digital experience and accessibility specialist wi
 
 ### Build partnerships with peers in related industries
 - Developed a space for accessibility specialists in higher education to share product test findings.
-- Connected with people across the Diversity, Equity, Inclusion, and Accessibiltiy space on LinkedIn to 
+- Continue to build out our DEIA connections within UMass by engaging with professors and DEIA professionals across the campuses. 
+- Connected with people across the Diversity, Equity, Inclusion, and Accessibiltiy space on LinkedIn. 
 
 ### Take a growth-mindset focus
 - Step in whenever there is a skill gap in the department and learn that skill. Previously had no experience in accessibility, web development or design, graphic design, or diversity and equity - volunteered to learn these skills having previously only had a communications and training development background. 
