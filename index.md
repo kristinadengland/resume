@@ -30,7 +30,7 @@ April 2019-Present
 - Mentor other teams on how to design and develop customer communications. 
 - Mentor internal developers, designers, and content owners on accessible code, design, and content.
 - Develop graphics and illustrations for President's Office websites and communications. 
-- Implemented and manage the Inclusive by Design website, which Apple and the American Federation of the Blind (AFB) have used as a resource for employees.  
+- Implemented and manage the[ Inclusive by Design website](https://www.umassp.edu/inclusive-by-design), which Apple and the American Federation of the Blind (AFB) have used as a resource for employees.  
 
 ### Web Application Specialist and IT Accessibility Coordinator at University of Massachusetts President's Office
 June 2014-April 2019
