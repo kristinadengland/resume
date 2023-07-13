@@ -10,8 +10,9 @@ Over 5 years experience as an digital experience and accessibility specialist wi
 - Mentor others on skill development and process knowledge across various areas. 
 
 ### Build partnerships with peers in related industries
-- Developed a space for accessibility specialists in higher education to share product test findings.
-- Continue to build out our DEIA connections within UMass by engaging with professors and DEIA professionals across the campuses. 
+- Developed a space for accessibility specialists in higher education that includes Indiana Univeristy, Stanford, and Yale.
+- Co-facilitated the implementation of an HCM Accessibility Focus Group with Indiana University where multiple universities and states now meeting quarterly with PeopleSoft developers to address critical accessibility issues.
+- Work with other DEIA volunteers to build out our DEIA connections within UMass by engaging with professors and DEIA professionals across the campuses. 
 - Connected with people across the Diversity, Equity, Inclusion, and Accessibiltiy space on LinkedIn. 
 
 ### Take a growth-mindset focus
@@ -40,11 +41,17 @@ June 2014-April 2019
 - Managed CMS configurations on the front end (Drupal views, content types, etc.).
 
 ## Volunteer Work
-### Companies Taskforce at Teach Access
+### Accessibility Skills Hiring Toolkit Working Group at Teach Access
 2019-Present
-- Volunteer on the Companies Taskforce with a focus on the Accessibility Skills Hiring Toolkit. 
+- Volunteer on the Accessibility Skills Hiring Toolkit Working Group with the American Federation for the Blind. 
 - Facilitated the incorporation of interview questions into the toolkit.
-- Converted the original PDF version of the toolkit into [GitHub pages](https://teachaccess.github.io/accessibility-skills-hiring-toolkit/) to ensure the content was accessible, translatable, and maintainable. 
+- Converted the original PDF version of the toolkit into [GitHub pages](https://teachaccess.github.io/accessibility-skills-hiring-toolkit/) to ensure the content was accessible, translatable, and maintainable.
+
+### Advised the American Red Cross on their First Digital Accessibility Specialist position
+2022
+- Provided feedback on their job description.
+- Provided them with recommended interview questions. 
+- Helped them review resumes as they came in to determine overall qualifications of candidates. 
 
 ## Academic Education
 - Project Management Certificate, University of Massachusetts Lowell
